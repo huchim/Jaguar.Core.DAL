@@ -1,4 +1,11 @@
-﻿namespace Jaguar.Core.DAL
+﻿// -----------------------------------------------------------------------
+// <copyright file="IEntity.cs" company="Jaguar">
+// Este archivo se entrega bajo los términos de la licencia del proyecto..
+// </copyright>
+// <summary>Representa las propiedades que debe tener como mínimo la entidad a manipular.</summary>
+// <author>Carlos Huchim Ahumada (huchim@live.com.mx)</author>
+// -----------------------------------------------------------------------
+namespace Jaguar.Core.DAL
 {
     using System;
 
